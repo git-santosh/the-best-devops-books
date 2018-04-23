@@ -59,6 +59,10 @@ Looking for a good read? Explore the books listed below and pick up one of these
   * Your UNIX Linux - The Ultimate Guide - Third Edition [[Read]](/books/Your%20UNIX%20Linux%20-%20The%20Ultimate%20Guide%20-%20Third%20Edition.pdf)
   
   * Unix Power Tools [[Read]](/books/Unix%20Power%20Tools.pdf)
+  
+  * Learning Shell Scripting with Zsh [[Read]](/books/Learning%20Shell%20Scripting%20with%20Zsh.pdf)
+  
+  * Shell Scripting Recipes [[Read]](/books/Shell%20Scripting%20Recipes.pdf)
 
 * Window
 
@@ -123,6 +127,22 @@ Looking for a good read? Explore the books listed below and pick up one of these
   * Automate it! - Recipes to upskill your business [[Read]](/books/Automate%20it!%20-%20Recipes%20to%20upskill%20your%20business.pdf)
   
   * Automate it [[Read]](/books/Automate%20it!.pdf)
+  
+* Microservice Architecture
+
+  * Building Microservices - Designing Fine-Grained Systems [[Read]](/books/Building%20Microservices%20-%20Designing%20Fine-Grained%20Systems.pdf)
+  
+  * Developing Microservices with Node.js [[Read]](/books/Developing%20Microservices%20with%20Node.js.pdf)
+  
+  * Microservices - Building Scalable Software [[Read]](/books/Microservices%20-%20Building%20Scalable%20Software.pdf)
+  
+  * Microservices - Flexible Software Architecture [[Read]](/books/Microservices%20-%20Flexible%20Software%20Architecture.pdf)
+  
+  * Microservices Deployment Cookbook [[Read]](/books/Microservices%20Deployment%20Cookbook.pdf)
+  
+  * Microservices From Day One - Build Robust and Scalable Software from the Start [[Read]](/books/Microservices%20From%20Day%20One%20-%20Build%20Robust%20and%20Scalable%20Software%20from%20the%20Start.pdf)
+  
+  * Infrastructure as Code (IAC) Cookbook [[Read]](/books/Infrastructure%20as%20Code%20(IAC)%20Cookbook.pdf)
     
 ### Contributing
 
