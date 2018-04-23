@@ -63,6 +63,8 @@ Looking for a good read? Explore the books listed below and pick up one of these
   * Learning Shell Scripting with Zsh [[Read]](/books/Learning%20Shell%20Scripting%20with%20Zsh.pdf)
   
   * Shell Scripting Recipes [[Read]](/books/Shell%20Scripting%20Recipes.pdf)
+  
+  * Advanced Bash-Scripting Guide [[Read]](/books/Advanced%20Bash-Scripting%20Guide.pdf)
 
 * Window
 
@@ -143,6 +145,30 @@ Looking for a good read? Explore the books listed below and pick up one of these
   * Microservices From Day One - Build Robust and Scalable Software from the Start [[Read]](/books/Microservices%20From%20Day%20One%20-%20Build%20Robust%20and%20Scalable%20Software%20from%20the%20Start.pdf)
   
   * Infrastructure as Code (IAC) Cookbook [[Read]](/books/Infrastructure%20as%20Code%20(IAC)%20Cookbook.pdf)
+  
+* Other
+
+  * CoreOS Essentials [[Read]](/books/CoreOS%20Essentials.pdf)
+  
+  * Getting Started with tmux [[Read]](/books/Getting%20Started%20with%20tmux.pdf)
+  
+  * Learning Continuous Integration with Jenkins [[Read]](/books/Learning%20Continuous%20Integration%20with%20Jenkins.pdf)
+  
+  * Mastering Wireshark [[Read]](/books/Mastering%20Wireshark.pdf)
+  
+  * Mesos in Action [[Read]](/books/Mesos%20in%20Action.pdf)
+  
+  * Nmap Essentials [[Read]](/books/Nmap%20Essentials.pdf)
+  
+  * Pro Continuous Delivery - With Jenkins 2.0 [[Read]](/books/Pro%20Continuous%20Delivery%20-%20With%20Jenkins%202.0.pdf)
+  
+  * REST API Design Rulebook [[Read]](/books/REST%20API%20Design%20Rulebook.pdf)
+  
+  * Wireshark Essentials [[Read]](/books/Wireshark%20Essentials.pdf)
+  
+  * Wireshark Network Security [[Read]](/books/Wireshark%20Network%20Security.pdf)
+  
+  * tmux Taster [[Read]](/books/tmux%20Taster.pdf)
     
 ### Contributing
 
