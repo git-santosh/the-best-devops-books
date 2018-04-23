@@ -58,6 +58,20 @@ Looking for a good read? Explore the books listed below and pick up one of these
   
   * Your UNIX Linux - The Ultimate Guide - Third Edition [[Read]](/books/Your%20UNIX%20Linux%20-%20The%20Ultimate%20Guide%20-%20Third%20Edition.pdf)
 
+* Window
+
+  * DevOps with Windows Server [[Read]](/books/DevOps%20with%20Windows%20Server%202016.pdf)
+  
+  * Learn Windows PowerShell 3 in a Month of Lunches [[Read]](/books/Learn%20Windows%20PowerShell%203%20in%20a%20Month%20of%20Lunches.pdf)
+  
+  * Windows PowerShell 3.0 First Steps [[Read]](/books/Windows%20PowerShell%203.0%20First%20Steps.pdf)
+  
+  * Windows PowerShell Cookbook [[Read]](/books/Windows%20PowerShell%20Cookbook.pdf)
+  
+  * Windows PowerShell Pocket Reference [[Read]](/books/Windows%20PowerShell%20Pocket%20Reference.pdf)
+  
+  * Windows PowerShell in Action [[Read]](/books/Windows%20PowerShell%20in%20Action.pdf)
+
 ### Contributing
 
 We'd love to have your helping hand on contributions to this project by forking and sending a pull request!
