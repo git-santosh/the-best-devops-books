@@ -146,7 +146,7 @@ Looking for a good read? Explore the books listed below and pick up one of these
   
   * Infrastructure as Code (IAC) Cookbook [[Read]](/books/Infrastructure%20as%20Code%20(IAC)%20Cookbook.pdf)
   
-* Other
+* Others
 
   * CoreOS Essentials [[Read]](/books/CoreOS%20Essentials.pdf)
   
