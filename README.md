@@ -57,6 +57,8 @@ Looking for a good read? Explore the books listed below and pick up one of these
   * Working with Linux – Quick Hacks for the Command Line [[Read]](/books/Working%20with%20Linux%20–%20Quick%20Hacks%20for%20the%20Command%20Line.pdf)
   
   * Your UNIX Linux - The Ultimate Guide - Third Edition [[Read]](/books/Your%20UNIX%20Linux%20-%20The%20Ultimate%20Guide%20-%20Third%20Edition.pdf)
+  
+  * Unix Power Tools [[Read]](/books/Unix%20Power%20Tools.pdf)
 
 * Window
 
@@ -71,6 +73,14 @@ Looking for a good read? Explore the books listed below and pick up one of these
   * Windows PowerShell Pocket Reference [[Read]](/books/Windows%20PowerShell%20Pocket%20Reference.pdf)
   
   * Windows PowerShell in Action [[Read]](/books/Windows%20PowerShell%20in%20Action.pdf)
+  
+  * PowerShell Succinctly [[Read]](/books/PowerShell%20Succinctly.pdf)
+  
+  * PowerShell in Depth [[Read]](/books/PowerShell%20in%20Depth.pdf)
+  
+  * PowerShell in Practice [[Read]](/books/PowerShell%20in%20Practice.pdf)
+  
+  * PowerShell in Practice [[Read]](/books/PowerShell%20in%20Practice.pdf)
 
 ### Contributing
 
