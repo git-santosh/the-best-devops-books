@@ -27,6 +27,22 @@ Looking for a good read? Explore the books listed below and pick up one of these
   * Linux Email - Second Edition [[Read]](/books/Linux%20Email%20-%20Second%20Edition.pdf)
     
   * Linux For Dummies [[Read]](/books/Linux%20For%20Dummies.pdf)
+  
+  * Linux Mint Essentials [[Read]](/books/Linux%20Mint%20Essentials.pdf)
+  
+  * Linux Networking Cookbook [[Read]](/books/Linux%20Networking%20Cookbook.pdf)
+  
+  * Linux Pocket [[Read]](/books/Linux%20Pocket.pdf)
+  
+  * Linux Shell Scripting Cookbook [[Read]](/books/Linux%20Shell%20Scripting%20Cookbook.pdf)
+  
+  * Linux Shell Scripting Essentials [[Read]](/books/Linux%20Shell%20Scripting%20Essentials.pdf)
+  
+  * Linux Thin Client Networks Design and Deployment [[Read]](/books/Linux%20Thin%20Client%20Networks%20Design%20and%20Deployment.pdf)
+  
+  * Linux Utilities Cookbook [[Read]](/books/Linux%20Utilities%20Cookbook.pdf)
+  
+  * Linux in a Nutshell, 6th Edition [[Read]](/books/Linux%20in%20a%20Nutshell%2C%206th%20Edition.pdf)
 
 ### Contributing
 
