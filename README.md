@@ -19,6 +19,14 @@ Looking for a good read? Explore the books listed below and pick up one of these
   * GNU Linux Advanced Administration [[Read]](/books/GNU%20Linux%20Advanced%20Administration.pdf)
   
   * Learning Linux Shell Scripting [[Read]](/books/Learning%20Linux%20Shell%20Scripting.pdf)
+  
+  * Linux Bible [[Read]](/books/Linux%20Bible.pdf)
+  
+  * Linux Email [[Read]](/books/Linux%20Email.pdf)
+  
+  * Linux Email - Second Edition [[Read]](/books/Linux%20Email%20-%20Second%20Edition.pdf)
+    
+  * Linux For Dummies [[Read]](/books/Linux%20For%20Dummies.pdf)
 
 ### Contributing
 
