@@ -43,6 +43,20 @@ Looking for a good read? Explore the books listed below and pick up one of these
   * Linux Utilities Cookbook [[Read]](/books/Linux%20Utilities%20Cookbook.pdf)
   
   * Linux in a Nutshell, 6th Edition [[Read]](/books/Linux%20in%20a%20Nutshell%2C%206th%20Edition.pdf)
+  
+  * Mastering Linux Shell Scripting [[Read]](/books/Mastering%20Linux%20Shell%20Scripting.pdf)
+  
+  * Mastering Linux [[Read]](/books/Mastering%20Linux.pdf)
+  
+  * Modern Linux Administration - How to Become a Cutting-Edge Linux Administrator - Early Release [[Read]](/books/Modern%20Linux%20Administration%20-%20How%20to%20Become%20a%20Cutting-Edge%20Linux%20Administrator%20-%20Early%20Release.pdf)
+  
+  * The Linux Command Line - A Complete Introduction [[Read]](/books/The%20Linux%20Command%20Line%20-%20A%20Complete%20Introduction.pdf)
+  
+  * The Linux Programming Interface - A Linux and UNIX System Programming Handbook [[Read]](/books/The%20Linux%20Programming%20Interface%20-%20A%20Linux%20and%20UNIX%20System%20Programming%20Handbook.pdf)
+  
+  * Working with Linux – Quick Hacks for the Command Line [[Read]](/books/Working%20with%20Linux%20–%20Quick%20Hacks%20for%20the%20Command%20Line.pdf)
+  
+  * Your UNIX Linux - The Ultimate Guide - Third Edition [[Read]](/books/Your%20UNIX%20Linux%20-%20The%20Ultimate%20Guide%20-%20Third%20Edition.pdf)
 
 ### Contributing
 
