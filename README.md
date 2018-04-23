@@ -117,7 +117,13 @@ Looking for a good read? Explore the books listed below and pick up one of these
   * The DevOps Adoption Playbook [[Read]](/books/The%20DevOps%20Adoption%20Playbook.pdf)
   
   * The DevOps Adoption Playbook [[Read]](/books/The%20DevOps%20Adoption%20Playbook.pdf)
+  
+* Automation
 
+  * Automate it! - Recipes to upskill your business [[Read]](/books/Automate%20it!%20-%20Recipes%20to%20upskill%20your%20business.pdf)
+  
+  * Automate it [[Read]](/books/Automate%20it!.pdf)
+    
 ### Contributing
 
 We'd love to have your helping hand on contributions to this project by forking and sending a pull request!
