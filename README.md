@@ -81,6 +81,42 @@ Looking for a good read? Explore the books listed below and pick up one of these
   * PowerShell in Practice [[Read]](/books/PowerShell%20in%20Practice.pdf)
   
   * PowerShell in Practice [[Read]](/books/PowerShell%20in%20Practice.pdf)
+  
+* DevOps
+
+  * Continuous Delivery and DevOps - A Quickstart Guide [[Read]](/books/Continuous%20Delivery%20and%20DevOps%20-%20A%20Quickstart%20Guide.pdf)
+  
+  * DevOps Automation Cookbook [[Read]](/books/DevOps%20Automation%20Cookbook.pdf)
+  
+  * DevOps Bootcamp [[Read]](/books/DevOps%20Bootcamp.pdf)
+  
+  * DevOps for Networking [[Read]](/books/DevOps%20for%20Networking.pdf)
+  
+  * DevOps for Web Development [[Read]](/books/DevOps%20for%20Web%20Development.pdf)
+  
+  * DevOps on the Microsoft Stack [[Read]](/books/DevOps%20on%20the%20Microsoft%20Stack.pdf)
+  
+  * DevOps, DBAs, and DBaaS - Managing Data Platforms to Support Continuous Integration [[Read]](/books/DevOps%2C%20DBAs%2C%20and%20DBaaS%20-%20Managing%20Data%20Platforms%20to%20Support%20Continuous%20Integration.pdf)
+  
+  * Effective DevOps [[Read]](/books/Effective%20DevOps.pdf)
+  
+  * Implementing DevOps on AWS [[Read]](/books/Implementing%20DevOps%20on%20AWS.pdf)
+  
+  * Implementing Modern DevOps [[Read]](/books/Implementing%20Modern%20DevOps.pdf)
+  
+  * Learning DevOps - Continuously Deliver Better Software [[Read]](/books/Learning%20DevOps%20-%20Continuously%20Deliver%20Better%20Software.pdf)
+  
+  * Implementing Modern DevOps [[Read]](/books/Implementing%20Modern%20DevOps.pdf)
+  
+  * Practical DevOps [[Read]](/books/Practical%20DevOps.pdf)
+  
+  * The DevOps 2.0 Toolkit [[Read]](/books/The%20DevOps%202.0%20Toolkit.pdf)
+  
+  * The DevOps 2.1 Toolkit - Docker Swarm [[Read]](/books/The%20DevOps%202.1%20Toolkit%20-%20Docker%20Swarm.pdf)
+  
+  * The DevOps Adoption Playbook [[Read]](/books/The%20DevOps%20Adoption%20Playbook.pdf)
+  
+  * The DevOps Adoption Playbook [[Read]](/books/The%20DevOps%20Adoption%20Playbook.pdf)
 
 ### Contributing
 
